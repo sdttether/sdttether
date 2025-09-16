@@ -9,7 +9,7 @@
       "name": "Xtreme SDT",
       "symbol": "xxSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/96833ccb6e76bead816f3368375ef450a0e37dcb/sdtLogoList.png",
+      "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/main/sdtLogoList.png",
       "tags": ["utility"],
       "extensions": {
         "website": "https://sdttether.com",
