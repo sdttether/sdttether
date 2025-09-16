@@ -4,12 +4,12 @@
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": [
     {
-      "chainId": "tron:mainnet",     // or a numeric id — use the SunLists docs / example
+      "chainId": "tron:mainnet",
       "address": "TMP5bNSRKcKRwRQVxRtTVw4g9Zhdq7LeKs",
       "name": "Xtreme SDT",
       "symbol": "xxSDT",
       "decimals": 6,
-      "logoURI": "https://example.com/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/refs/heads/main/sdtLogoList.png",
       "tags": ["utility"],
       "extensions": {
         "website": "https://sdttether.com",
