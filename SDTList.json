@@ -1,6 +1,6 @@
 {
   "name": "Xtreme SDT",
-  "timestamp": "2025-09-14 15:22:39 (UTC)",
+  "timestamp": "2025-09-14T15:22:39Z",
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "name": "Xtreme SDT",
       "symbol": "xxSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/refs/heads/main/sdtLogoList.png",
+      "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/main/sdtLogoList.png",
       "tags": ["utility"],
       "extensions": {
         "website": "https://sdttether.com",
