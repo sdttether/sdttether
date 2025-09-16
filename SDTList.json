@@ -1,20 +1,20 @@
 {
-  "name": "Xtreme SDT",
-  "timestamp": "2025-09-14T15:22:39Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "name": "SDT Token List",
+  "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/main/sdtLogoList.png",
+  "timestamp": 1694869384000,
   "tokens": [
     {
-      "chainId": 728126428,
-      "address": "TMP5bNSRKcKRwRQVxRtTVw4g9Zhdq7LeKs",
+      "chainId": 1,
+      "address": "TMP5bNSRKcKRwRQVxRtTVw4g9Zhdq7LeKs", 
       "name": "Xtreme SDT",
       "symbol": "xxSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/96833ccb6e76bead816f3368375ef450a0e37dcb/sdtLogoList.png",
-      "tags": ["utility"],
-      "extensions": {
-        "website": "https://sdttether.com",
-        "description": "A fully collateralized, regulatory-compliant stablecoin bridging traditional finance and DeFi. Each üSDT token is pegged 1:1 with USD and backed by transparent, auditable reserves."
-      }
+      "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/main/sdtLogoList.png"
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
