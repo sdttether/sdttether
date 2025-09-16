@@ -4,7 +4,7 @@
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": [
     {
-      "chainId": "tron:mainnet",
+      "chainId": 728126428,
       "address": "TMP5bNSRKcKRwRQVxRtTVw4g9Zhdq7LeKs",
       "name": "Xtreme SDT",
       "symbol": "xxSDT",
