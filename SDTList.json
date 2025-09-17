@@ -1,6 +1,6 @@
 {
   "name": "SDT Token List",
-  "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/main/sdtLogoList.png",
+  "logoURI": "https://static.tronscan.org/production/upload/logo/new/TMP5bNSRKcKRwRQVxRtTVw4g9Zhdq7LeKs.png",
   "timestamp": 1694869384000,
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "name": "Xtreme SDT",
       "symbol": "xxSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sdttether/sdttether/main/sdtLogoList.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/new/TMP5bNSRKcKRwRQVxRtTVw4g9Zhdq7LeKs.png"
     }
   ],
   "version": {
